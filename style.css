@@ -44,7 +44,7 @@ body{
     transform: rotate(-70deg);
 }
 
-.circle-button{
+.circle button{
     cursor: pointer;
     position: absolute;
     top: 50%;
